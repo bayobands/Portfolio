@@ -7,7 +7,7 @@ A highlight of my projects, skills, experience, and background as a Computer Sci
 ## Live Site
 
 🔗 **Portfolio:**  
-https://bayobands.github.io/
+[Portfolio](https://bayobands.github.io/Portfolio/)
 
 ## Built With
 
