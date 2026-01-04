@@ -1,0 +1,32 @@
+/* Make the About page actually look different (Spectral overrides) */
+body.about-page,
+body.about-page #page-wrapper,
+body.about-page article#main {
+  background: linear-gradient(135deg, #0f172a, #020617) !important;
+  color: #e5e7eb;
+}
+
+/* Change the section background */
+body.about-page .wrapper,
+body.about-page .wrapper.style1 {background-color: rgba(2, 6, 23, 0.92) !important;}
+body.about-page .wrapper.style2 {background-color: rgba(122, 105, 208, 0.92) !important;}
+body.about-page .wrapper.style3 {
+  background-color: rgba(25, 57, 201, 0.92) !important;
+}
+
+/* Text */
+body.about-page h1,
+body.about-page h2,
+body.about-page h3 {
+  color: #ffffff !important;
+}
+
+body.about-page p {
+  color: #cbd5f5 !important;
+}
+
+body.about-page article#main > header {
+  background-image: url("/images/about-banner.jpg") !important;
+  background-size: cover;
+  background-position: center;
+}
